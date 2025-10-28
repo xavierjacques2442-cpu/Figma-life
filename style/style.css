@@ -1,0 +1,46 @@
+.card1{
+    background-color: rgb(86, 23, 23);
+}
+.card2{
+    background-color: rgb(186, 186, 30);
+}
+.card3{
+    background-color: rgb(37, 37, 163);
+}
+.center-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem; 
+}
+.center{
+    text-align: left;
+}
+.left{
+  margin-left: -600px;
+}
+.right{
+    margin-right: 100px;
+}
+.body{
+    background-color: black;
+}
+.text{
+text-align: justify;
+color: white;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 40px;
+}
+.text2{
+    color: black;
+}
+.body2{
+    background-color: rgb(86, 23, 23);
+}
+.body3{
+    background-color:  rgb(186, 186, 30);
+}
+.body4{
+    background-color: rgb(37, 37, 163);
+}
